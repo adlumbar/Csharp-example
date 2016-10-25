@@ -10,7 +10,7 @@ namespace testApplication
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello Hello");
         }
     }
 }
